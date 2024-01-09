@@ -4,10 +4,10 @@ print("Run Python")
 
 # COMMAND ----------
 
-# MAGIC %md
-# MAGIC # Getting Started
-# MAGIC ## Databricks
-# MAGIC ### Datalake
+# Getting Started
+## Databricks
+### Datalake
+print ("change python")
 
 # COMMAND ----------
 
